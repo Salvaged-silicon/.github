@@ -1,0 +1,4 @@
+# Organisation-wide default: every repository in Salvaged Silicon that does not
+# set its own FUNDING.yml shows this. A repository can still override it, and
+# the vendor SDK forks deliberately do not carry it.
+buy_me_a_coffee: Wrightca1
