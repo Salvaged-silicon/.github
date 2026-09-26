@@ -72,6 +72,7 @@ rather than rediscovering the same registers.
 Built by **Christopher Wright**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher_Wright-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-wright-498b3859)
+[![X](https://img.shields.io/badge/X-@salvagedsilicon-000000?logo=x&logoColor=white)](https://x.com/salvagedsilicon)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/Wrightca1)
 
 Every platform added starts with buying the switch. They are cheap second-hand; the
